@@ -1,0 +1,5 @@
+Game-U AR/Library/
+*.csproj
+*.suo
+Game-U AR/.vs/
+*.sln
